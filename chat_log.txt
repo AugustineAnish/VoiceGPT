@@ -1,0 +1,8 @@
+You: Friday
+
+Friday: Greetings, how may I assist you today?
+
+You: how to switch on a computer
+
+Friday: To switch on a computer, simply press the power button located on the CPU or the front of the laptop.
+
